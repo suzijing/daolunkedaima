@@ -1,0 +1,6 @@
+<button id="btn4" 
+bindtap="getDataFromOneNet" >Light On ?</button>
+<image style="width:60px;height:60px"src="{{imageSrc}}" class='img'></image>
+<button id=""></button>
+<button id="btn5" 
+bindtap="getDataFromOneNet2" >Door Closed?</button>
